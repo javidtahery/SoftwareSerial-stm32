@@ -1,0 +1,3 @@
+exti.c:4:6:EXTI_Init	24	static
+exti.c:54:12:EXTI_GetFlagStatus	24	static
+exti.c:71:6:EXTI_ClearITPendingBit	16	static

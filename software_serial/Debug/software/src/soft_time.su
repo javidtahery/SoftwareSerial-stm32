@@ -1,0 +1,5 @@
+soft_time.c:4:6:SOFT_TIM_TimeBaseInit	24	static
+soft_time.c:47:6:SOFT_TIM_ClearITPendingBit	16	static
+soft_time.c:56:6:SOFT_TIM_ITConfig	16	static
+soft_time.c:75:6:SOFT_TIM_Cmd	16	static
+soft_time.c:93:12:SOFT_TIM_GetFlagStatus	24	static
